@@ -74,7 +74,7 @@ class Linear_Analysis():
       def dot(v, w):
             return sum(v_i * w_i for v_i, w_i in zip(v,w))
 
-      ""
+      """
       Sum of squares:
             The multiplication of a vector by itself. Utilized for determining the dispersion of a 
             vector which is representative of a set of data. Also utilized in determining the line
@@ -82,4 +82,31 @@ class Linear_Analysis():
       """
       def sum_of_squares(v):
             return dot(v, v)
+
+      """
+      Magnitude:
+            The magnitude is to vector what length is to a line, therefore, we're essentially
+            calculating the length of the vector by calling the magnitude function.
+      """
+      def magnitude(v):
+            return math.sqrt(sum_of_squares(v))
+
+      """
+      Squared Distance:
+            An intermediary step in finding the distance between two vectors, wherein the vector,
+            w, is pointwise subtracted from v and subsequently squared. To complete the calculation,
+            you simply have to take the square root of all pointwise information.
+      """
+      def squared_distance(v, w):
+            return sum_of_squares(vector_subtract(v, w))
+      
+      """
+      Distance:
+            Finally, the calculation of the distance of two vectors by taking the square root of the 
+            squared distance.
+      """
+      def distance(v, w):
+            return math.sqrt(squared_distance(v, w))
+      
+            
                   
