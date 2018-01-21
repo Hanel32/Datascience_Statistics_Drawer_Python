@@ -34,6 +34,8 @@ class Statistics_Analysis:
   """
   Quantile:
     The percentile index; i.e. .01'th quantile to .99'th quantile.
+    To put it in other words, the quantile is the count of data points within that percentile range
+    of the data set; If there are 100 data points, there are 18 data points in the .18 quantile.
   """
   def quantile(x, p):
     p_index = int(p * len(x))
