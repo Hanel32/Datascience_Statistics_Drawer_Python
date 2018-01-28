@@ -4,8 +4,7 @@ Layout:
 - Linear Analysis: A survey of Linear Algebra
 - Statistics Analysis: A survey of Statistics
 - Probability Analysis: A survey of Probability Theory
-- Hypothesis Analysis: A survey of Hypothesis Testing and margin of error
-- Confidence Analysis: A survey of Confidence in the results of testing
+- Hypothesis Analysis: A survey of Hypothesis Testing, Confidence Intervals, P-hacking, A/B Tests, Bayesian Inference
 - Gradient Analysis: A survey of Gradient Descent, the popular mechanic involved in Machine Learning
 
 Please note:
