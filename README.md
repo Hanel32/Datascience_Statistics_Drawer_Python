@@ -6,6 +6,7 @@ Layout:
 - Probability Analysis: A survey of Probability Theory
 - Hypothesis Analysis: A survey of Hypothesis Testing, Confidence Intervals, P-hacking, A/B Tests, Bayesian Inference
 - Gradient Analysis: A survey of Gradient Descent, the popular mechanic involved in Machine Learning
+- Data Aquistion: A survey of introductory Regular Expressions, Web Scraping, and Beautiful Soup to mine text
 
 Please note:
  
