@@ -1,6 +1,7 @@
 # Data_Science_Statistics_Drawer
 This will be a repository to hold useful code or notes from my adventures in STAT 489: Principles of Data Science and Statistics
 Layout:
+- Homework One: An introductory Python assignment turned into a treatise on simple functional analytics
 - Linear Analysis: A survey of Linear Algebra
 - Statistics Analysis: A survey of Statistics
 - Probability Analysis: A survey of Probability Theory
