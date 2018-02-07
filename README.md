@@ -1,10 +1,11 @@
 # Data_Science_Statistics_Drawer
 This will be a repository to hold useful code or notes from my adventures in STAT 489: Principles of Data Science and Statistics
 Layout:
-- 0. Homework One: An introductory Python assignment turned into a treatise on simple functional analytics
-- 0. Notes on Pandas: In-class notes of how to read-in and handle data in Python with Pandas.
-- 0. Notes on PyPlot: In-class notes of how to create basic Python graphs with PyPlot.
-- 0. Notes on Statistical Experiments: In-class notes on statistical simulations using Python.
+- Homework One: An introductory Python assignment turned into a treatise on simple functional analytics
+- Homework Two: Creation of random standard normal and gamma distribution t-values and p-tests.
+- Notes on Pandas: In-class notes of how to read-in and handle data in Python with Pandas.
+- Notes on PyPlot: In-class notes of how to create basic Python graphs with PyPlot.
+- Notes on Statistical Experiments: In-class notes on statistical simulations using Python.
 - 1. Linear Analysis: A survey of Linear Algebra
 - 2. Statistics Analysis: A survey of Statistics
 - 3. Probability Analysis: A survey of Probability Theory
