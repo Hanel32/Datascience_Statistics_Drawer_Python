@@ -13,7 +13,10 @@ Layout:
 - 5. Gradient Analysis: A survey of Gradient Descent, the popular mechanic involved in Machine Learning
 - 6. Data Aquistion: A survey of introductory Regular Expressions, Web Scraping, and Beautiful Soup to mine text
 - 7. Data Insights: A survey of exploring insights on a dataset before applying Machine Learning
-
+- 8. Full Machine Learning Project: A quick manual on addressing a dataset, preparing the data, and running a classifier.
+  - Note, this is from the book Hands On Machine Learning with Scikit-Learn and Tensorflow.
+  - All further assignments will be either from there or in-class.
+  
 Please note:
  
 While the code is mostly verbatim from the Data Science From Scratch book by Joel Grus, I am writing this
