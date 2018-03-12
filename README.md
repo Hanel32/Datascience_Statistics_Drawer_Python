@@ -6,14 +6,14 @@ Layout:
 - Notes on Pandas: In-class notes of how to read-in and handle data in Python with Pandas.
 - Notes on PyPlot: In-class notes of how to create basic Python graphs with PyPlot.
 - Notes on Statistical Experiments: In-class notes on statistical simulations using Python.
-- 1. Linear Analysis: A survey of Linear Algebra
-- 2. Statistics Analysis: A survey of Statistics
-- 3. Probability Analysis: A survey of Probability Theory
-- 4. Hypothesis Analysis: A survey of Hypothesis Testing, Confidence Intervals, P-hacking, A/B Tests, Bayesian Inference
-- 5. Gradient Analysis: A survey of Gradient Descent, the popular mechanic involved in Machine Learning
-- 6. Data Aquistion: A survey of introductory Regular Expressions, Web Scraping, and Beautiful Soup to mine text
-- 7. Data Insights: A survey of exploring insights on a dataset before applying Machine Learning
-- 8. Full Machine Learning Project: A quick manual on addressing a dataset, preparing the data, and running a classifier.
+- Linear Analysis: A survey of Linear Algebra
+- Statistics Analysis: A survey of Statistics
+- Probability Analysis: A survey of Probability Theory
+- Hypothesis Analysis: A survey of Hypothesis Testing, Confidence Intervals, P-hacking, A/B Tests, Bayesian Inference
+- Gradient Analysis: A survey of Gradient Descent, the popular mechanic involved in Machine Learning
+- Data Aquistion: A survey of introductory Regular Expressions, Web Scraping, and Beautiful Soup to mine text
+- Data Insights: A survey of exploring insights on a dataset before applying Machine Learning
+- Full Machine Learning Project: A quick manual on addressing a dataset, preparing the data, and running a classifier.
   - Note, this is from the book Hands On Machine Learning with Scikit-Learn and Tensorflow.
   - All further assignments will be either from there or in-class.
   
