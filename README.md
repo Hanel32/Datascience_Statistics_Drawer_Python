@@ -18,6 +18,7 @@ Layout:
   - All further assignments will be either from there or in-class.
 - MNIST Classifiers: A followup on the Full Machine Learning Project; Multilabel and Multioutput classification and verification metrics.
 - Myers Briggs Analysis: An analysis of most recent 50 tumblr posts by personality type for Social Media data mining.
+- Unstructured Exploration of Data: A treatise in Hierarchical Clustering, KNN, and PCA methods and their metrics.
   
 Please note:
  
