@@ -16,6 +16,8 @@ Layout:
 - Full Machine Learning Project: A quick manual on addressing a dataset, preparing the data, and running a classifier.
   - Note, this is from the book Hands On Machine Learning with Scikit-Learn and Tensorflow.
   - All further assignments will be either from there or in-class.
+- MNIST Classifiers: A followup on the Full Machine Learning Project; Multilabel and Multioutput classification and verification metrics.
+- Myers Briggs Analysis: An analysis of most recent 50 tumblr posts by personality type for Social Media data mining.
   
 Please note:
  
