@@ -15,10 +15,11 @@ Layout:
 - Data Insights: A survey of exploring insights on a dataset before applying Machine Learning
 - Full Machine Learning Project: A quick manual on addressing a dataset, preparing the data, and running a classifier.
   - Note, this is from the book Hands On Machine Learning with Scikit-Learn and Tensorflow.
-  - All further assignments will be either from there or in-class.
-- MNIST Classifiers: A followup on the Full Machine Learning Project; Multilabel and Multioutput classification and verification metrics.
+  - All further assignments will be either from there or in-class.  
 - Myers Briggs Analysis: An analysis of most recent 50 tumblr posts by personality type for Social Media data mining.
+- MNIST Classifiers: A followup on the Full Machine Learning Project; Multilabel and Multioutput classification and verification metrics.
 - Unstructured Exploration of Data: A treatise in Hierarchical Clustering, KNN, and PCA methods and their metrics.
+- Training Models: An introduction and analysis of Linear Regression and Gradient Descent algorithms comparison as applied to ML.
   
 Please note:
  
