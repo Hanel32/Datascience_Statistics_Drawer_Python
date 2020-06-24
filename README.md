@@ -1,4 +1,15 @@
 # Data_Science_Statistics_Drawer
+
+**Note: Please check out the following for good examples of personal work**
+- **489_Homework_3:** Cleaning, interpolation, and interpretation of narcotics data. 
+- **489_Homework_4:** Scraping and curation of a web-sourced dataset.
+- **Kaggle Titanic:** Final project from STAT 489 wherein I preform Exploratory Data Analysis (EDA) on the Titanic dataset.
+- **Unstructured Exploration of Data:** Unstructured EDA on NCI-60 Cancer and Wine Tasting datasets to discover features.
+
+Each of these projects was carried out with Jupyter Notebooks to enhance readability.
+
+# Contents
+
 This will be a repository to hold useful code or notes from my adventures in STAT 489: Principles of Data Science and Statistics
 Layout:
 - Homework One: An introductory Python assignment turned into a treatise on simple functional analytics
@@ -20,13 +31,6 @@ Layout:
 - MNIST Classifiers: A followup on the Full Machine Learning Project; Multilabel and Multioutput classification and verification metrics.
 - Unstructured Exploration of Data: A treatise in Hierarchical Clustering, KNN, and PCA methods and their metrics.
 - Training Models: An introduction and analysis of Linear Regression and Gradient Descent algorithms comparison as applied to ML.
-  
-Please note:
- 
-While the code is mostly verbatim from the Data Science From Scratch book by Joel Grus, I am writing this
-code and the comments as I work through the book as a reference. Currently, the goal is to complete my 
-studies on the book, implementing every concept, and then follow up with analysis exercises on every
-topic in IPython Notebooks in order to tell a better story with analysis.
 
 Purpose:
 
